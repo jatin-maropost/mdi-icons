@@ -1,6 +1,6 @@
 {
   "name": "mdi-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a library which contains all the material design icons.",
   "main": "index.js",
   "scripts": {
