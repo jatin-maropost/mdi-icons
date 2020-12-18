@@ -9,7 +9,7 @@ npm install --save @mdi-icons
 
 
 
-### Useage
+### Usage
 Import material design icons css in the **main.js** or root file
 ```
 import "mdi-icons/css/materialdesignicons.min.css";
