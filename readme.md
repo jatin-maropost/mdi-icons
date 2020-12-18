@@ -1,6 +1,6 @@
 # Mdi Icons
 
-[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-green)](https://github.com/jatin-maropost/mdi-icons)
+[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-green)](https://www.npmjs.com/package/mdi-icons)
 ```
 npm install --save @mdi-icons
 ```
