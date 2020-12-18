@@ -9,12 +9,15 @@
   "keywords": [
     "css",
     "material",
+    "mdi",
     "design",
-    "icons"
+    "icons",
+    "vue"
   ],
   "author": "Jatin kamboj",
+  "repository": "jatin-maropost/mdi-icons",
   "license": "ISC",
   "devDependencies": {
-    "@mdi/font": "^4.9.95"
+    "@mdi/font": "4.9.95"
   }
 }
